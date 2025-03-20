@@ -1,11 +1,11 @@
-# Olá, amigos da vizinhança! 🕷️👩‍💻✨
+# Olá, 
 
-Meu nome é **Ana Júlia**, mas podem me chamar de **dev da vizinhança**! 😄 
+Meu nome é **Ana Júlia** 😄 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rajatparmar/typed.js/master/demo/assets/typing-effect.gif" alt="Efeito de Digitação" width="450"/>
   <br>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGs4YjM3MjN2Mzdzdzk0M2Ntb2RzYXRoMWJ0bDd2cnR0enJ2ejVnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cAtrZjXD20d1RZ6zpX/giphy.gif" alt="Gif Homem Aranha" width="800" />
+  <img 
 </div>
 
 
