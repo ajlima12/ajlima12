@@ -47,7 +47,13 @@ Aqui estão algumas das ferramentas que mais utilizo no meu trabalho diário:
 </p>
 
 ---
+### 📚 **Veja meu TCC sobre um App de Turismo para Las Vegas**:
 
+Desenvolvi um aplicativo de turismo para **Las Vegas**, onde é possível explorar os principais pontos turísticos da cidade, fazer itinerários personalizados e muito mais. Você pode conferir o código completo e o desenvolvimento do projeto no meu repositório do GitHub:
+
+[**VegasExperience - TCC de Turismo para Las Vegas**](https://github.com/ajlima12/VegasExperience-Final)
+
+---
 ### 📊 Meu GitHub Stats
 
 [![Ana Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajlima12&show_icons=true&count_private=true&hide=prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
