@@ -11,8 +11,6 @@ Atualmente sou **Associate na IBM**, atuando na área de **Quality Assurance (QA
 <div align="center">
   <img src="https://raw.githubusercontent.com/rajatparmar/typed.js/master/demo/assets/typing-effect.gif" alt="Efeito de Digitação" width="450"/>
   <br>
-  <img src="https://avatars.githubusercontent.com/u/xxxxxxxxx?v=4" alt="Foto de Perfil" width="150" style="border-radius:50%"/>
-</div>
 
 ---
 
