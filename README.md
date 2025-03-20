@@ -1,6 +1,4 @@
-# Olá, 
-
-Meu nome é **Ana Júlia** 😄 
+# Olá, Meu nome é **Ana Júlia** 😄 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rajatparmar/typed.js/master/demo/assets/typing-effect.gif" alt="Efeito de Digitação" width="450"/>
