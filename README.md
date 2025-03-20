@@ -5,7 +5,6 @@
 
 Atualmente sou **Associate na IBM**, atuando na área de **Quality Assurance (QA)**. Tenho experiência com ferramentas de automação de testes e estou sempre em busca de novos aprendizados. 🚀
 
----
 
 
 <div align="center">
