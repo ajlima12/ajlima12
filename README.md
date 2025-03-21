@@ -74,7 +74,7 @@ Desenvolvi um aplicativo de turismo para **Las Vegas**, onde é possível explor
 ### 📫 Onde me encontrar:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajlima12/" target="_blank">
+  <a href="[https://www.linkedin.com/in/ajlima12/](https://www.linkedin.com/in/ana-julia-oliveira-ajlima/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
